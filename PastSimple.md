@@ -8,8 +8,9 @@ nav_order: 1
 # Past Simple: Regular and Irregular Verbs
 
 The simple past is used to talk about completed actions in the past.
-![04-01-es](assets/images/04-01-es.jpg)
-![04-02-es](assets/images/04-02-es.jpg)
+
+| ![04-01-es](assets/images/04-01-es.jpg) | ![04-02-es](assets/images/04-02-es.jpg) |
+|----------------------------------------|----------------------------------------|
 > *Last week we travelled to Canada.*
 > *Last year we dressed up as pineapples.*
 
