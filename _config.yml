@@ -1,19 +1,18 @@
-# _config.yml
 title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+description: A starter template for a Jekyll site using the Just the Docs theme!
 theme: just-the-docs
-color_scheme: welearn  # Usar nuestro esquema personalizado
+color_scheme: welearn
 
 search_enabled: false
-
-just-the-docs:
-  custom_css:
-    - assets/css/custom.scss
-
 
 url: https://just-the-docs.github.io
 
 logo: "/assets/images/logo.png"
+
+callouts:
+  warning:
+    title: Warning
+    color: red
 
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
