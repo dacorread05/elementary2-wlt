@@ -4,8 +4,7 @@ theme: just-the-docs
 color_scheme: welearn
 
 search_enabled: false
-
-url: https://just-the-docs.github.io
+favicon_ico: "/assets/images/favicon.ico"
 
 logo: "/assets/images/logo.png"
 

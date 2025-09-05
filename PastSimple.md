@@ -1,5 +1,5 @@
 ---
-title: Past Simple - Regular & Irregular Verbs
+title: Past Simple
 parent: Week 1
 layout: default
 nav_order: 1
