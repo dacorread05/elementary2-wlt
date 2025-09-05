@@ -33,10 +33,10 @@ By the end of Elementary 2, you will be able to:
 
 ## Meet Your Instructors
 
-### Alejandro Correa
+### Carolina Solano
 *Instructor And Coordinator*
 
-### Carolina Solano
+### Alejandro Correa
 *Instructor And Coordinator*
 
 Our instructors have **2 years of teaching experience**.
